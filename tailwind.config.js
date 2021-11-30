@@ -6,7 +6,7 @@ module.exports = {
       colors: {
         body: '#17171f',
         body: '#0a192f',
-        'selected-text': '#64ffda;',
+        'selected-text': '#64ffda',
         theme: '#64ffda',
         nav: '#64ffda',
         secondary: '#9191a4',
