@@ -4,13 +4,13 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        body: '#64ffda',
         body: '#17171f',
-        'selected text': '#A3A3FF',
-        theme: '#3f3fff',
-        nav: '#3f3fff',
+        body: '#0a192f',
+        'selected-text': '#64ffda;',
+        theme: '#64ffda',
+        nav: '#64ffda',
         secondary: '#9191a4',
-        badge: '#3f3f51',
+        badge: '#64ffda',
         'input-border': '#565666',
         input: '#2a2a35',
       },
